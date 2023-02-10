@@ -9,7 +9,7 @@
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": "",
+            "description": "AQUA=4wZyRaZQ#b0ma2y6wYAke6p4rMg-9hHgMHtOl5yWwA45GSUZIEoQ",
             "required": true
              },
             "NO_ONLINE": {
@@ -156,12 +156,12 @@
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "SI" ,
             "required": true
       },
          "HEROKU": {
             "description": "",
-            "value": "true" ,
+            "value": "fals" ,
             "required": true
       },
          "HEROKU_API_KEY": {
