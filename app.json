@@ -9,7 +9,7 @@
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": "AQUA=4wZyRaZQ#b0ma2y6wYAke6p4rMg-9hHgMHtOl5yWwA45GSUZIEoQ",
+            "description": "AQUA=g5B0mYrT#nX37HXHGt7SkzXv5V_quofnERA9sDZeA042WPAYitaE",
             "required": true
              },
             "NO_ONLINE": {
@@ -38,12 +38,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "Irosh kanishka" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "94760327260" ,
             "required": true
              },
        
